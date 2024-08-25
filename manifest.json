@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Eight Dollars",
-  "version": "2.0",
-  "description": "Eight Dollars can help you tell the difference between actual verified accounts and twitter blue users.",
+  "id": "{db4d70f2-e2ef-44c8-9bc0-03724b962bbc}",
+  "name": "Eight Dollars For Firefox",
+  "version": "2.1",
+  "description": "Eight Dollars For Firefox replaces blue checkmarks with dollars in x/twitter.",
   "icons": {
     "16": "./assets/16.png",
     "32": "./assets/32.png",
@@ -27,7 +28,7 @@
       "16": "./assets/16.png",
       "32": "./assets/32.png"
     },
-    "default_title": "Eight Dollars - Options",
+    "default_title": "Eight Dollars For Firefox - Options",
     "default_popup": "options/options.html"
   },
   "permissions": ["storage"]
